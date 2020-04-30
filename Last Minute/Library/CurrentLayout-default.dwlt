@@ -467,14 +467,20 @@ MonoBehaviour:
   m_LastFolders:
   - Assets/Scenes
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: E:\Proffesional\VineMa-taLaJam\JamDeAcasa\Last Minute
+  m_LastProjectPath: D:\JamDeAcasa\JamDeAcasa\Last Minute
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
+<<<<<<< Updated upstream
     m_SelectedIDs: 88330000
     m_LastClickedID: 13192
     m_ExpandedIDs: 000000008233000000ca9a3b
+=======
+    m_SelectedIDs: d0330000
+    m_LastClickedID: 13264
+    m_ExpandedIDs: 00000000c833000000ca9a3b
+>>>>>>> Stashed changes
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -502,7 +508,11 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
+<<<<<<< Updated upstream
     m_ExpandedIDs: 0000000082330000
+=======
+    m_ExpandedIDs: 00000000c8330000
+>>>>>>> Stashed changes
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -546,7 +556,7 @@ MonoBehaviour:
       m_IsRenaming: 0
       m_OriginalEventType: 11
       m_IsRenamingFilename: 1
-      m_ClientGUIView: {fileID: 11}
+      m_ClientGUIView: {fileID: 5}
     m_CreateAssetUtility:
       m_EndAction: {fileID: 0}
       m_InstanceID: 0
@@ -590,7 +600,7 @@ MonoBehaviour:
   m_LockTracker:
     m_IsLocked: 0
   m_PreviewResizer:
-    m_CachedPref: 147
+    m_CachedPref: 151
     m_ControlHash: -371814159
     m_PrefName: Preview_InspectorPreview
   m_PreviewWindow: {fileID: 0}
@@ -625,9 +635,15 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
+<<<<<<< Updated upstream
       m_SelectedIDs: 1e350000
       m_LastClickedID: 13598
       m_ExpandedIDs: dafaffffe6faffff70fbffff
+=======
+      m_SelectedIDs: 40350000
+      m_LastClickedID: 0
+      m_ExpandedIDs: 2efaffff
+>>>>>>> Stashed changes
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -687,9 +703,15 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
+<<<<<<< Updated upstream
     m_Target: {x: 0, y: 3, z: 0}
     speed: 2
     m_Value: {x: 0, y: 2.999999, z: -0.000004172325}
+=======
+    m_Target: {x: -1.848711, y: -3.1889095, z: 9.267976}
+    speed: 2
+    m_Value: {x: -1.848711, y: -3.1889095, z: 9.267976}
+>>>>>>> Stashed changes
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -735,6 +757,7 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
+<<<<<<< Updated upstream
     m_Target: {x: 0.17932452, y: 0.010325079, z: -0.0018819673, w: 0.98373497}
     speed: 2
     m_Value: {x: -0.17932452, y: -0.010325078, z: 0.0018819673, w: -0.98373497}
@@ -742,6 +765,15 @@ MonoBehaviour:
     m_Target: 10
     speed: 2
     m_Value: 10.000001
+=======
+    m_Target: {x: -0.043115847, y: 0.95435756, z: -0.24146207, w: -0.17041115}
+    speed: 2
+    m_Value: {x: -0.04275358, y: 0.95461154, z: -0.24152632, w: -0.16897932}
+  m_Size:
+    m_Target: 59.061832
+    speed: 2
+    m_Value: 56.5185
+>>>>>>> Stashed changes
   m_Ortho:
     m_Target: 0
     speed: 2
