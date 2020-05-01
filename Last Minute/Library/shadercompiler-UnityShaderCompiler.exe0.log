@@ -1,10 +1,2 @@
 Base path: 'D:/Radiogugu/2019.3.11f1/Editor/Data', plugins path 'D:/Radiogugu/2019.3.11f1/Editor/Data/PlaybackEngines'
 Cmd: initializeCompiler
-Cmd: preprocess
-  insize=24532 outsize=2003 ok=1
-Cmd: preprocess
-  insize=3652 outsize=926 ok=1
-Cmd: preprocess
-  insize=24698 outsize=1910 ok=1
-Cmd: preprocess
-  insize=23535 outsize=1728 ok=1
