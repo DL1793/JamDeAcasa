@@ -1,6 +1,10 @@
-<<<<<<< Updated upstream
-Base path: 'D:/Radiogugu/2019.3.11f1/Editor/Data', plugins path 'D:/Radiogugu/2019.3.11f1/Editor/Data/PlaybackEngines'
-=======
 Base path: 'C:/Program Files/Unity/Hub/Editor/2019.3.11f1/Editor/Data', plugins path 'C:/Program Files/Unity/Hub/Editor/2019.3.11f1/Editor/Data/PlaybackEngines'
->>>>>>> Stashed changes
 Cmd: initializeCompiler
+Cmd: preprocess
+  insize=24053 outsize=1942 ok=1
+Cmd: preprocess
+  insize=3553 outsize=893 ok=1
+Cmd: preprocess
+  insize=24215 outsize=1851 ok=1
+Cmd: preprocess
+  insize=23069 outsize=1671 ok=1
