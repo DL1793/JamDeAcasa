@@ -7,6 +7,7 @@ public class Gunoi_Delete : MonoBehaviour
     private bool atinge = false;
 
     GameObject cub, doza, lampa;
+    
     int scor;
 
     void Start()
@@ -19,11 +20,11 @@ public class Gunoi_Delete : MonoBehaviour
 
     void Update()
     {
-        //Debug.Log("Scorul este de: " + scor);
+        
     }
 
     private void OnCollisionEnter(Collision col)
-    {
+    {        
         atinge = true;
         if (col.gameObject.name == "Cube")
         {
@@ -44,6 +45,7 @@ public class Gunoi_Delete : MonoBehaviour
             scor--;
         }
     }
+    
 
     private void Contor()
     {
